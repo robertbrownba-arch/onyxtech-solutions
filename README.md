@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Computer Repair Waterbury CT | OnyxTech Solutions</title>
+<title>Computer Repair Greater New Haven County's| OnyxTech Solutions</title>
 
 <meta name="description" content="OnyxTech Solutions L.L.C. provides computer repair, networking, POS systems, virus removal and IT services in Waterbury Connecticut.">
 
